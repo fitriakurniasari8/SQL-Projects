@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## My First SQL Project
+## 1. My First SQL Project
 Study Case about unicorn companies.
 
 The data provided by My Skill.
